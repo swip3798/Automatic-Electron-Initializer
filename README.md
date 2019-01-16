@@ -13,13 +13,13 @@ Then follow the instructions in the console.
 
 The script creates a simple starting script, modifies the package.json so you can easily start and build your app.
 
-The following commands must be used inside the project folder
-##### Start the app
+The following commands must be used inside the project folder:
+#### Start the app
 ```
 npm start
 ```
 
-##### Build the app
+#### Build the app
 ```
 # Windows
 npm run package-win
