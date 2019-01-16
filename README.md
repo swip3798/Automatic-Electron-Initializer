@@ -3,7 +3,7 @@ Python script to automatically initialize an electron npm project and prepare it
 
 ## Requirements
 Script requires npm and Python. I used it with Python 3.6 but it should also work with at least python 3.5.
-If you want to use Python 2.x please use electron_auto_init_python2.py. Warning: I didn't test the Python 2 version, it should work, but eventually you have to change a bit. 
+If you want to use Python 2.x please use `electron_auto_init_python2.py`. Warning: I didn't test the Python 2 version, it should work, but eventually you have to change a bit. 
 
 ## Usage
 Use the auto init with the following command:
