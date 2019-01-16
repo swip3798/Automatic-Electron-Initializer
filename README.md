@@ -18,7 +18,7 @@ python electron_auto_init_python2.py project-name
 ```
 Then follow the instructions in the console.
 
-The script creates a simple starting script, modifies the package.json so you can easily start and build your app.
+The script creates a simple starting script, modifies the package.json so you can easily start and build your app, and creates a basic HelloWorld html page to get started.
 
 The following commands must be used inside the project folder:
 #### Start the app
